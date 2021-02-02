@@ -29,9 +29,6 @@ github basics
 - Good Evening
 
 #ordered List
-    a Good Morning
-    b Good Afternoon
-    c Good Evening
-           * Good Morning
-           * Good Afternoon
-           * Good Evening
+- Good Morning
+- Good Afternoon
+- Good Evening
